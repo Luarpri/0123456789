@@ -16,3 +16,4 @@
 | `0`    | Imprime un numero aleatorio de 0 al nueve en el byte apuntado                                                                               |
 
 ## Ejemplos
+W.I.P
