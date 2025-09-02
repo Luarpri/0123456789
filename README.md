@@ -1,5 +1,5 @@
 # 0123456789
-"0123456789" (se puede abreviar como 09) es un lenguaje de programacion basado en brainf*ck que usa los numeros del 0 al 9 como instrucciones, el interprete se puede encontrar aqui
+"0123456789" (se puede abreviar como 09) es un lenguaje de programacion basado en brainf*ck que usa los numeros del 0 al 9 como instrucciones.
 
 
 | Instruccion  | Significado                                                                                                                           |
