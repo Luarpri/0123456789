@@ -26,4 +26,4 @@ Si haces algo sorprendente escrito en 09, puede que aparezcas aqui, asegurate de
 ## Interprete y convertidor
 En este repositorio se encunetra un interprete de 09 escrito en Scratch, ademas, puesto que 09 y brainfuck es exactamente igual, se incluye un convertidor para convertir proyectos de brainfuck a 09 y viceversa
 > [!NOTE]
-> El 0 y el 9 son instrucciones unicas de 09 que brainfuck no tiene, por lo tanto, si transformas un proyecto de 09 a brainfuck, se ignoraran esas 2 instrucciones
+> El 0 y el 9 son instrucciones unicas de 09 que brainfuck no tiene, por lo tanto, si conviertes un proyecto de 09 a brainfuck, se ignoraran esas 2 instrucciones
