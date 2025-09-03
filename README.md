@@ -10,8 +10,8 @@
 | `4`    | Decrementa el byte apuntado.                                                                                                                |
 | `5`    | Escribe el byte apuntado en el flujo de salida..                                                                                            |
 | `6`    | 	Lee un byte del flujo de entrada y lo almacena en el byte apuntado.                                                                        |
-| `7`    | Avanza a la instrucción inmediatamente posterior al ] correspondiente si el byte actualmente apuntado es nulo (si es 0).                    |
-| `8`    | 	Retrocede a la instrucción inmediatamente posterior al [ correspondiente si el byte actualmente apuntado no es nulo (si es distinto de 0). |
+| `7`    | Avanza a la instrucción inmediatamente posterior al 8 correspondiente si el byte actualmente apuntado es nulo (si es 0).                    |
+| `8`    | 	Retrocede a la instrucción inmediatamente posterior al 7 correspondiente si el byte actualmente apuntado no es nulo (si es distinto de 0). |
 | `9`    | Imprime el codigo fuente del programa en el byte apuntado                                                                                   |
 | `0`    | Imprime un numero aleatorio de 0 al nueve en el byte apuntado                                                                               |
 
